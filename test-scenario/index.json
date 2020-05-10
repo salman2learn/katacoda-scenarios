@@ -2,7 +2,7 @@
   "title": "Test Scenario Title",
   "description": "Test Scenarios Descr",
   "difficulty": "Beginner",
-  "time": "5",
+  "time": "5 minutes",
   "details": {
     "steps": [
       {
